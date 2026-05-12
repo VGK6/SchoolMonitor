@@ -1,0 +1,18 @@
+{
+  "TARGET_URLS": [
+    "https://jww.zjgsu.edu.cn/main.htm"
+  ],
+  "KEYWORDS": [
+    "奖学金",
+    "竞赛",
+    "实习",
+    "考试",
+    "转专业",
+    "计算机",
+    "放假"
+  ],
+  "SERVERCHAN_SENDKEY": "SCT348388TBGLiTMs86CFVtA55lq6muRtB",
+  "CHECK_INTERVAL_MINUTES": 30,
+  "MAX_AGE_DAYS": 7,
+  "ENABLE_DESKTOP_NOTIFY": true
+}
